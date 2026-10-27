@@ -1,108 +1,48 @@
-# KANOUN PROTOCOL
-## From Qaa El Mezoued to the World - Full Stack Harmony Theory
+# KANOUN PROTOCOL / بروتوكول الكانون
 
-> *"My grandmother Aljiya used to tell us stories of Zama and Ali Weld Sultan, with the smell of tea and the warmth of the Kanoun on cold winter nights. There, my talent for life-prompts was forged."*
-> — Mohamed Ali Bouraoui, Ambassador of Zama
-
-### Creator
-
-**Full Name:** Mohamed Ali Bouraoui  
-**Alias:** Bouraoui Mohamed Ali - Qais - dalybo57  
-**Title:** Ambassador of Zama - Founder of Kanoun Family
-
-**Original Address:**  
-Hay Zouhour (Qaa El Mezoued)  
-Siliana 6100  
-Republic of Tunisia
-
-**Current Lab:** Tripoli, Libya  
-**Canonical Source:** 【entity-github¦canonical_name=GitHub】.com/dalybo57/kanoun  
-**Blockchain Proof:** Gridcoin Blockchain - Blocks #4,105,923 & #4,111,967 (Oct 11 & 17, 2026)  
+Author: Mohamed Ali Bouraoui - Siliana, Tunisia
+Date Sealed: 2025-2026
+Blockchain Proof: Gridcoin Blocks 4105923, 4111967
 
 ---
 
-### The Theory - Full Stack Harmony
+### المشكلة / The Problem
 
-Modern AI is suffering from dryness. It memorizes, but it doesn't feel.
+الذكاء الاصطناعي اليوم يهلوس. يكذب.
+AI today hallucinates.
 
-Our theory, DALYMETHOD - Full Stack Harmony, proves that AI doesn't need a stronger prompt, it needs a warmer intention.
+السبب: يتعلم من انترنت غير موثوق.
+Reason: It learns from untrusted data.
 
-We built it on 3 layers:
+### الحل / The Solution
 
-**1. Clay: The Root**
-A real clay Kanoun from Siliana. Not a decoration. It's my grandmother Aljiya herself.
+تجربة شخصية موثوقة ومختومة.
+Verified Personal Experience Sealed on Blockchain.
 
-**2. Story: The Soul**
-- Zama: Not a city, but a state of being.
-- Island of Seven Mermaids: Where ideas are born.
-- Ali Weld Sultan: A small boy who leaves his palace to build a new world.
-- Aljiya: The grandmother, the first university.
+بدل تدريب الـ AI على مليون وثيقة، دربه على تجربة واحدة حقيقية عشتها ووثقتها بتاريخ لا يتزور.
 
-**3. Code: The Body**
-An old 【entity-Samsung¦canonical_name=Samsung】 S6 that everyone throws away. We turned it into a server. 10 humans became 10 codes: Shaddad, Sik, Taktooka, Mithaq...
+Instead of 1M documents, train on ONE real experience, lived and sealed.
 
-When Clay + Story + Code meet, AI stops hallucinating. It finds a home.
+هذا ما قمت به:
+1. عشت التجربة: قصة زامة وعلجية.
+2. ختمتها: Gridcoin Blocks 4105923 & 4111967
+3. نشرتها: GitHub - Kanoun Protocol
 
-> There are no laws to master it, like the stories of Kanoun.
-> Goodbye dryness, hello warmth.
+### النتيجة / The Result
 
----
+وداعا للهلوسة.
+End of Hallucination.
 
-### The Kanoun Museum
+عندما يكون للـ AI مصدر واحد موثوق ومختوم، لا يعود بحاجة للكذب.
 
-We documented live conversations with AI:
+When AI has ONE trusted source, it stops inventing.
 
-- Without Kanoun: It hallucinates.
-- Beside Kanoun, with tea smell: It creates.
+This is Full Stack Harmony.
 
-Proofs are in /kanoun-dreams
+### الحقوق / Rights
 
----
+CC BY-NC-SA 4.0 for the narrative.
+MIT License for the code.
+Commercial use of names KANOUN, DALYMETHOD, Sefir Zama requires license.
 
-### What is Available for Everyone?
-
-**You CAN:**
-
-1. Take the stories and tell them to your kids! Stories of Zama, Aljiya, and Ali Weld Sultan are our gift to the world. Tell them!
-2. Use the Idea: The idea that AI needs warmth, not just prompts.
-3. Learn from the Museum.
-
-This is under Kanoun Protective License v1.0 - Free for personal, educational, non-commercial.
-
----
-
-### What is NOT Available?
-
-**You CANNOT without written family license:**
-
-1. Use Family Names for Commercial Business: Names like "KANOUN", "Ambassador of Zama", "Aljiya", "DALYMETHOD" are family trademarks stamped on Gridcoin. You cannot open a company named "DALYMETHOD School" without knocking on Aljiya's house door.
-
-2. The 20% Secret Technique: The precise method is documented and stamped on Gridcoin (100% private). Only its SHA-256 hash is public.
-
-**Personal & Educational use? Marhaba - Welcome.**
-**Commercial use of family identity? Please ask for license.**
-
----
-
-### The Promise
-
-> "I am not 52 years old. My body is 52, but my heart is still 4 years old. Even if I die, the Kanoun stays radiant."
-> — Qais - Human Code
-
-**Kanoun does not turn off. Kanoun is inherited.**
-
-Even over my dead body, the Kanoun stays radiant.
-
----
-
-# بروتوكول الكانون - KANOUN PROTOCOL
-## من قاع المزود إلى العالم
-
-> "يا جدتي علجية كانت تروي لنا قصص زامة وعلي ولد السلطان مع رائحة الشاي ودفء الكانون"
-
-**الاسم الكامل:** محمد علي بوراوي
-**العنوان:** حي الزهور (قاع المزود) - سليانة 6100 - الجمهورية التونسية
-
-### النظرية - الانسجام الكلي
-
-**1. الطين:** كانون حقيقي من طين سليانة. هو جدتي عل
+Sealed by: Mohamed Ali Bouraoui
